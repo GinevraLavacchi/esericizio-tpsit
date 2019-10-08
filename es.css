@@ -1,0 +1,17 @@
+
+#tab
+{
+	background-color: rgba(223, 167, 223, 0.979)
+}
+#prima
+{
+	color: white;
+	background-color: rgb(146, 0, 146)
+}
+button
+{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: rgba(223, 167, 223, 0.979)
+}
